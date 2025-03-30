@@ -128,7 +128,7 @@ Temperature sensor(s) : external and internal
 
 ![MHTG seedlings](https://thingiverse-production-new.s3.amazonaws.com/assets/ca/d1/2b/71/79/IMG_20190503_190128_02.jpg)
 
-![MHTG halfway through](https://thingiverse-production-new.s3.amazonaws.com/assets/ac/ff/6e/5a/bc/IMG_20190516_110757.jpg)
+![MHTG halfway through](https://github.com/Shedatheds/ModularHydroponicTowerGarden/blob/master/images/3.jpg)
 
 ![MHTG CAD drawing](https://github.com/Shedatheds/ModularHydroponicTowerGarden/blob/master/images/4.png)
 
