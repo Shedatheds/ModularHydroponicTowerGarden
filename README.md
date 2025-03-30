@@ -134,6 +134,6 @@ Temperature sensor(s) : external and internal
 
 ![MHTG planting module](https://thingiverse-production-new.s3.amazonaws.com/assets/95/2c/2f/54/be/IMG_20190401_095039_02.jpg)
 
-![V1.02 water pump controller](https://github.com/Shedatheds/ModularHydroponicTowerGarden/blob/master/images/7.png)
+![V1.02 water pump controller](https://github.com/Shedatheds/ModularHydroponicTowerGarden/blob/master/images/6.png)
 
 ![MHTG GUI 01](https://github.com/Shedatheds/ModularHydroponicTowerGarden/blob/master/images/7.png)
