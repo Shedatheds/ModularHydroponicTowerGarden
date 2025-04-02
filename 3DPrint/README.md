@@ -36,19 +36,19 @@ Printing recommendations
     210x210 mm printing area required
     Use wide brims whenever the surface touching the bed is small (filling module, hollow planting modules)
 
-With above settings a 3-way planting module takes 12 hours to print.
+    With above settings a 3-way planting module takes 12 hours to print.
 
 Watering schedule
 
-Last year I started with 30 minutes on and 30 minutes off. Works well.
-My current schedule is 5 minutes on and 20 minutes off.
-You can further shorten the on-time and lengthen the off-time if power saving is a requirement. Let the roots of the plants be completely wet (should take a few minutes at least) and start the water pump again when they start to dry out (up to 1 hour).
+    Last year I started with 30 minutes on and 30 minutes off. Works well.
+    My current schedule is 5 minutes on and 20 minutes off.
+    You can further shorten the on-time and lengthen the off-time if power saving is a requirement. Let the roots of the plants be completely wet (should take a few minutes at least) and start the water pump again when they start to dry out (up to 1 hour).
 
-If you don't have a timer then continuous water circulation is appropriate.
+    If you don't have a timer then continuous water circulation is appropriate.
 
 FAQ
 
-What parts do I print for a very basic setup (1 module) on a 5 gallon bucket?
+    What parts do I print for a very basic setup (1 module) on a 5 gallon bucket?
 
     Original bucket lid or a lid from the Remixes section.
     Module_Adapter_With_Tabs.STL
