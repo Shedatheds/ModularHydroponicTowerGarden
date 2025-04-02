@@ -50,9 +50,9 @@ FAQ
 
 What parts do I print for a very basic setup (1 module) on a 5 gallon bucket?
 
-Original bucket lid or a lid from the Remixes section.
-Module_Adapter_With_Tabs.STL
-3-Way_Planting_Module_Hollow.STL
-Standard_Pot_02.STL
-Dispenser_Module_Internal.STL
-Lid_Without_Holes.STL
+    Original bucket lid or a lid from the Remixes section.
+    Module_Adapter_With_Tabs.STL
+    3-Way_Planting_Module_Hollow.STL
+    Standard_Pot_02.STL
+    Dispenser_Module_Internal.STL
+    Lid_Without_Holes.STL
